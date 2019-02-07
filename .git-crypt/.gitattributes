@@ -1,1 +1,1 @@
-test-enc-before.txt filter=git-crypt diff=git-crypt
+enc-file.txt filter=git-crypt diff=git-crypt
